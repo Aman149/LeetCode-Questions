@@ -10,6 +10,7 @@ You are given an array trust where <code>trust[i] = [ai, bi]</code> representing
 <pre>Return the label of the town judge if the town judge exists and can be identified, or return -1 otherwise.
 </pre>
 
+
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 
