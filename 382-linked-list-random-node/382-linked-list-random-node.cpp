@@ -9,21 +9,20 @@
  * };
  */
 class Solution {
-    ListNode *head=NULL;
+    vector<int> nodes;
+    
 public:
+    
     Solution(ListNode* head) {
-        this->head = head;
+        while (head != NULL) {
+            nodes.push_back(head->val);
+            head = head->next;
+        }
     }
     
     int getRandom() {
-        int ans = 0, i = 1;
-        ListNode *p = this->head;
-        while (p) {
-            if (rand() % i == 0) ans = p->val; // replace ans with i-th node.val with probability 1/i
-            i ++;
-            p = p->next;
-        }
-        return ans;
+        int i = rand() % this->nodes.size();
+        return this->nodes[i];
     }
 };
 
