@@ -23,8 +23,8 @@ class Solution {
         if(k==0)
             return root->val;
             
-        int right = find(root->right, k);
-        return right;
+        return find(root->right, k);
+        //return right;
     }
     
 public:
