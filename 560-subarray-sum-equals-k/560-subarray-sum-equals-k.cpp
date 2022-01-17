@@ -8,7 +8,9 @@ public:
  
         for(int i=0; i<nums.size(); i++) {
             sum +=nums[i];
-            ans += mp[sum-k];
+            
+            if(mp.find(sum-k) != mp.end())
+                ans += mp[sum-k];
             mp[sum]++;
         }
         return ans;
