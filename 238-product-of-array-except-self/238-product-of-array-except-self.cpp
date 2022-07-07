@@ -1,6 +1,9 @@
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
+        //O(1) Space
+        //O(n) Time
+        
         int ans = 1;
         int zeroPos = -1, countZeros = 0;
         
