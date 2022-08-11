@@ -10,6 +10,7 @@
  * };
  */
 class Solution {
+    //B-tree traversal
     bool  helper(TreeNode* root, long long low, long long high) {
         if(root == NULL)
             return true;
@@ -19,6 +20,7 @@ class Solution {
     }
 public:
     bool isValidBST(TreeNode* root) {
+        //Use long long instead of int 'Corner Case !!!'
         return helper(root, LLONG_MIN, LLONG_MAX);
     }
 };
