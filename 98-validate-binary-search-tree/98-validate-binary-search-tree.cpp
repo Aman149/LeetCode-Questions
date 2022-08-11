@@ -20,6 +20,8 @@ class Solution {
     }
 public:
     bool isValidBST(TreeNode* root) {
+        if(root==NULL)
+            return true;
         //Use long long instead of int 'Corner Case !!!'
         return helper(root, LLONG_MIN, LLONG_MAX);
     }
