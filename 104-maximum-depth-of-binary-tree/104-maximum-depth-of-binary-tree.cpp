@@ -10,24 +10,11 @@
  * };
  */
 class Solution {
-    int maxLevel = 0;
-    
-    int maxDepthHelper(TreeNode *root, int currLevel) {
-        
-        if(root == NULL)
-            return maxLevel;
-        
-        if(currLevel > maxLevel)
-            maxLevel = currLevel;
-        
-        return max(maxDepthHelper(root->left, currLevel+1),maxDepthHelper(root->right, currLevel+1));
-    }
-    
 public:
     int maxDepth(TreeNode* root) {
-        if(root == NULL)
-            return maxLevel;
-        
-        return maxDepthHelper(root, 1);
+        if(root == NULL) return 0;
+        int left = maxDepth(root->left);
+        int right = maxDepth(root->right);
+        return max(left, right) + 1;
     }
 };
