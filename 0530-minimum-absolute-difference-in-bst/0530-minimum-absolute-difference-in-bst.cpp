@@ -10,20 +10,26 @@
  * };
  */
 class Solution {
-    void helper(TreeNode* root, int &prevHead, int &minDiff) {
-        if(root == NULL)
-            return;
-        helper(root->left, prevHead, minDiff);
-        if(prevHead != -1) 
-            minDiff = min(minDiff, abs(root->val-prevHead));
-        prevHead = root->val;
-        helper(root->right, prevHead, minDiff);
+    void inorder(vector<int>& inord, TreeNode* root){
+        if(root==NULL) return;
+        inorder(inord, root->left);
+        inord.push_back(root->val);
+        inorder(inord, root->right);
     }
+    
+    
 public:
     int getMinimumDifference(TreeNode* root) {
-        int minDiff = INT_MAX;
-        int prevHead = -1;
-        helper(root, prevHead, minDiff);
-        return minDiff;
+        
+        vector<int> inord;
+        inorder(inord, root);
+        int mini = INT_MAX;
+        int N = inord.size();
+        
+        for(int i=0; i<N-1; i++){
+            mini = min(mini, inord[i+1]-inord[i]);
+        }
+        
+        return mini;
     }
 };
