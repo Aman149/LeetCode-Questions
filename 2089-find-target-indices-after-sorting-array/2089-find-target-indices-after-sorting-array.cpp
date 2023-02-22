@@ -1,14 +1,19 @@
 class Solution {
 public:
     vector<int> targetIndices(vector<int>& arr, int t) {
-        sort(arr.begin(), arr.end());
-        vector<int> ans;
+        int lessThan = 0, equalTo = 0;
         
-        for(int i=0; i<arr.size(); i++) {
-            if(arr[i] == t)
-                ans.push_back(i);
+        for(auto i : arr) {
+            if(i < t)
+                lessThan++;
+            else if(i == t)
+                equalTo++;
         }
         
+        vector<int> ans;
+        for(int i=0; i<equalTo; i++) {
+            ans.push_back(lessThan++);
+        }
         return ans;
     }
 };
