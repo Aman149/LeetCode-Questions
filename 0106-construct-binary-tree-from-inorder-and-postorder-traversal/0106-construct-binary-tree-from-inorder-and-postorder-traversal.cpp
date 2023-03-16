@@ -1,15 +1,15 @@
 class Solution {
 public:
 
-    TreeNode* buildTreeHelper(vector<int>& inorder, vector<int>& postorder, unordered_map<int, int>& ump, int& rootIdx, int left, int right) {
+    TreeNode* buildTreeHelper(vector<int>& postorder, unordered_map<int, int>& ump, int& rootIdx, int left, int right) {
         if(left > right) return NULL;
         
         int pivot = ump[postorder[rootIdx]];
         TreeNode* node = new TreeNode(postorder[rootIdx]);
         rootIdx--;
 
-        node->right = buildTreeHelper(inorder, postorder, ump, rootIdx, pivot+1, right);
-        node->left = buildTreeHelper(inorder, postorder, ump, rootIdx, left, pivot-1);
+        node->right = buildTreeHelper(postorder, ump, rootIdx, pivot+1, right);
+        node->left = buildTreeHelper(postorder, ump, rootIdx, left, pivot-1);
         return node;
     }
 
@@ -18,6 +18,6 @@ public:
         unordered_map<int, int> ump;
         for(int i=0;i<inorder.size();i++) ump[inorder[i]] = i;
 
-        return buildTreeHelper(inorder, postorder, ump, rootIdx, 0, inorder.size()-1);
+        return buildTreeHelper(postorder, ump, rootIdx, 0, inorder.size()-1);
     }
 };
