@@ -1,21 +1,12 @@
-/**
- * @param {number[]} nums1
- * @param {number[]} nums2
- * @return {number[]}
- */
 var intersection = function(nums1, nums2) {
-    var output = [];
-    var hashmap = new Map();
-    
-    for(let i=0; i<nums1.length; i++) {
-        hashmap.set(nums1[i], i);
+    const num1Map = {}
+    for(const num of nums1){
+       num1Map[num] = true
     }
+    const num2Map = {}
 
-    for(let i=0; i<nums2.length; i++) {
-        if(hashmap.has(nums2[i])) {
-            output.push(nums2[i]);
-            hashmap.delete(nums2[i]);
-        }
+    for(const num of nums2){
+        if(num in num1Map)num2Map[num] = true
     }
-    return output;
+    return Object.keys(num2Map)
 };
