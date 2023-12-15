@@ -7,7 +7,7 @@ public:
             hash.insert(path[0]);
         
         for(auto &path : paths) {
-            string destination = path[1];
+            const std::string& destination = path[1];
             if(hash.find(destination) == hash.end())
                 return destination;
         }
