@@ -1,20 +1,17 @@
 class Solution {
 public:
     string destCity(vector<vector<string>>& paths) {
-        unordered_map<string,int> hash;
+        unordered_set<string> hash;
         
-        string possibleDestination = "";
+        for(auto &path : paths)
+            hash.insert(path[0]);
         
-        for(auto &path: paths) {
-            hash[path[0]] += 2;
-            hash[path[1]] += 1;
+        for(auto &path : paths) {
+            string destination = path[1];
+            if(hash.find(destination) == hash.end())
+                return destination;
         }
         
-        for(auto destination: hash){
-            if(destination.second == 1)
-                possibleDestination = destination.first;
-        }
-        
-        return possibleDestination;
+        return "";
     }
 };
