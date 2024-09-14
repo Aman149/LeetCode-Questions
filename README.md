@@ -57,6 +57,7 @@ If you encounter any issues or have questions regarding the solutions provided i
 | [0041-first-missing-positive](https://github.com/Aman149/LeetCode-Questions/tree/master/0041-first-missing-positive) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Aman149/LeetCode-Questions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aman149/LeetCode-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Aman149/LeetCode-Questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ If you encounter any issues or have questions regarding the solutions provided i
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/Aman149/LeetCode-Questions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aman149/LeetCode-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Aman149/LeetCode-Questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Counting
 |  |
 | ------- |
@@ -79,4 +81,8 @@ If you encounter any issues or have questions regarding the solutions provided i
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/Aman149/LeetCode-Questions/tree/master/1435-xor-queries-of-a-subarray) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Aman149/LeetCode-Questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
