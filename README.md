@@ -62,10 +62,12 @@ If you encounter any issues or have questions regarding the solutions provided i
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Aman149/LeetCode-Questions/tree/master/0041-first-missing-positive) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Aman149/LeetCode-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aman149/LeetCode-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## String
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Aman149/LeetCode-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aman149/LeetCode-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Bit Manipulation
 |  |
@@ -76,6 +78,7 @@ If you encounter any issues or have questions regarding the solutions provided i
 ## Counting
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Aman149/LeetCode-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aman149/LeetCode-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Prefix Sum
 |  |
