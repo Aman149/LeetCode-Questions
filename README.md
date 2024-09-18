@@ -67,6 +67,7 @@ If you encounter any issues or have questions regarding the solutions provided i
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Aman149/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Aman149/LeetCode-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aman149/LeetCode-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Bit Manipulation
@@ -88,4 +89,8 @@ If you encounter any issues or have questions regarding the solutions provided i
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Aman149/LeetCode-Questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Aman149/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
