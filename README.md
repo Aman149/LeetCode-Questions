@@ -65,6 +65,7 @@ If you encounter any issues or have questions regarding the solutions provided i
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Aman149/LeetCode-Questions/tree/master/0041-first-missing-positive) |
+| [0567-permutation-in-string](https://github.com/Aman149/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Aman149/LeetCode-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/Aman149/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Aman149/LeetCode-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -74,6 +75,7 @@ If you encounter any issues or have questions regarding the solutions provided i
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Aman149/LeetCode-Questions/tree/master/0125-valid-palindrome) |
+| [0567-permutation-in-string](https://github.com/Aman149/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Aman149/LeetCode-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aman149/LeetCode-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Bit Manipulation
@@ -102,8 +104,13 @@ If you encounter any issues or have questions regarding the solutions provided i
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Aman149/LeetCode-Questions/tree/master/0125-valid-palindrome) |
+| [0567-permutation-in-string](https://github.com/Aman149/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/Aman149/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Aman149/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
