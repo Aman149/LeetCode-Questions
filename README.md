@@ -60,6 +60,7 @@ If you encounter any issues or have questions regarding the solutions provided i
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Aman149/LeetCode-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Aman149/LeetCode-Questions/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aman149/LeetCode-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1923-sentence-similarity-iii](https://github.com/Aman149/LeetCode-Questions/tree/master/1923-sentence-similarity-iii) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Aman149/LeetCode-Questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Hash Table
 |  |
@@ -78,6 +79,7 @@ If you encounter any issues or have questions regarding the solutions provided i
 | [0567-permutation-in-string](https://github.com/Aman149/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Aman149/LeetCode-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aman149/LeetCode-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1923-sentence-similarity-iii](https://github.com/Aman149/LeetCode-Questions/tree/master/1923-sentence-similarity-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -105,6 +107,7 @@ If you encounter any issues or have questions regarding the solutions provided i
 | ------- |
 | [0125-valid-palindrome](https://github.com/Aman149/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/Aman149/LeetCode-Questions/tree/master/0567-permutation-in-string) |
+| [1923-sentence-similarity-iii](https://github.com/Aman149/LeetCode-Questions/tree/master/1923-sentence-similarity-iii) |
 ## Sorting
 |  |
 | ------- |
