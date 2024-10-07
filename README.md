@@ -80,6 +80,7 @@ If you encounter any issues or have questions regarding the solutions provided i
 | [0920-uncommon-words-from-two-sentences](https://github.com/Aman149/LeetCode-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aman149/LeetCode-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Aman149/LeetCode-Questions/tree/master/1923-sentence-similarity-iii) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Aman149/LeetCode-Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -116,4 +117,12 @@ If you encounter any issues or have questions regarding the solutions provided i
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Aman149/LeetCode-Questions/tree/master/0567-permutation-in-string) |
+## Stack
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Aman149/LeetCode-Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Simulation
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Aman149/LeetCode-Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
