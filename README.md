@@ -73,6 +73,7 @@ If you encounter any issues or have questions regarding the solutions provided i
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Aman149/LeetCode-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Aman149/LeetCode-Questions/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aman149/LeetCode-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Aman149/LeetCode-Questions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## String
 |  |
 | ------- |
@@ -83,6 +84,7 @@ If you encounter any issues or have questions regarding the solutions provided i
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aman149/LeetCode-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Aman149/LeetCode-Questions/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aman149/LeetCode-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Aman149/LeetCode-Questions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Aman149/LeetCode-Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/Aman149/LeetCode-Questions/tree/master/3195-separate-black-and-white-balls) |
 ## Bit Manipulation
@@ -123,6 +125,7 @@ If you encounter any issues or have questions regarding the solutions provided i
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Aman149/LeetCode-Questions/tree/master/0567-permutation-in-string) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Aman149/LeetCode-Questions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Stack
 |  |
 | ------- |
