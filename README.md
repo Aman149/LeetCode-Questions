@@ -81,6 +81,7 @@ If you encounter any issues or have questions regarding the solutions provided i
 | [0567-permutation-in-string](https://github.com/Aman149/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Aman149/LeetCode-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aman149/LeetCode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Aman149/LeetCode-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aman149/LeetCode-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Aman149/LeetCode-Questions/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aman149/LeetCode-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -104,6 +105,7 @@ If you encounter any issues or have questions regarding the solutions provided i
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/Aman149/LeetCode-Questions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Aman149/LeetCode-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/Aman149/LeetCode-Questions/tree/master/1694-make-sum-divisible-by-p) |
 ## Brainteaser
 |  |
