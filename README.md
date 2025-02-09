@@ -55,6 +55,7 @@ If you encounter any issues or have questions regarding the solutions provided i
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Aman149/LeetCode-Questions/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/Aman149/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Aman149/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Aman149/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [1002-maximum-width-ramp](https://github.com/Aman149/LeetCode-Questions/tree/master/1002-maximum-width-ramp) |
@@ -161,4 +162,12 @@ If you encounter any issues or have questions regarding the solutions provided i
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Aman149/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Aman149/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Aman149/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Aman149/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
