@@ -1,18 +1,18 @@
 public class Solution {
     public int MaxProfit(int[] prices) {
-        int buy = 0, sell = 1;
-        int size = prices.Length;
+        int minPrice = int.MaxValue;
         int maxProfit = 0;
 
-        while(sell < size) {
-            if(prices[buy] >= prices[sell]) {
-                buy = sell;
-            }
-            else {
-                maxProfit = Math.Max(maxProfit, prices[sell] - prices[buy]);
-            }
-            sell++;
+        foreach(int price in prices) {
+            if(price < minPrice) {
+                minPrice = price;
+            } else {
+                maxProfit = Math.Max(maxProfit, price - minPrice);
+            } 
         }
+
+        return maxProfit;
+        
         return maxProfit;
     }
 }
