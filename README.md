@@ -54,6 +54,7 @@ If you encounter any issues or have questions regarding the solutions provided i
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Aman149/LeetCode-Questions/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/Aman149/LeetCode-Questions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Aman149/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Aman149/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
@@ -120,6 +121,7 @@ If you encounter any issues or have questions regarding the solutions provided i
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Aman149/LeetCode-Questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Aman149/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Aman149/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/Aman149/LeetCode-Questions/tree/master/0567-permutation-in-string) |
