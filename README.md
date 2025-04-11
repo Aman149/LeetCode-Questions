@@ -177,4 +177,12 @@ If you encounter any issues or have questions regarding the solutions provided i
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aman149/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aman149/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Math
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/Aman149/LeetCode-Questions/tree/master/2998-count-symmetric-integers) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/Aman149/LeetCode-Questions/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
