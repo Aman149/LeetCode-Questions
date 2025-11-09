@@ -148,6 +148,7 @@ If you encounter any issues or have questions regarding the solutions provided i
 ## Simulation
 |  |
 | ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/Aman149/LeetCode-Questions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Aman149/LeetCode-Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Greedy
 |  |
@@ -180,6 +181,7 @@ If you encounter any issues or have questions regarding the solutions provided i
 ## Math
 |  |
 | ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/Aman149/LeetCode-Questions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2998-count-symmetric-integers](https://github.com/Aman149/LeetCode-Questions/tree/master/2998-count-symmetric-integers) |
 ## Enumeration
 |  |
