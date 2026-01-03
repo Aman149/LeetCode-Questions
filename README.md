@@ -54,6 +54,7 @@ If you encounter any issues or have questions regarding the solutions provided i
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aman149/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Aman149/LeetCode-Questions/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/Aman149/LeetCode-Questions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Aman149/LeetCode-Questions/tree/master/0053-maximum-subarray) |
@@ -72,6 +73,7 @@ If you encounter any issues or have questions regarding the solutions provided i
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aman149/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Aman149/LeetCode-Questions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Aman149/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0567-permutation-in-string](https://github.com/Aman149/LeetCode-Questions/tree/master/0567-permutation-in-string) |
