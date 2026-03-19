@@ -52,8 +52,8 @@ If you encounter any issues or have questions regarding the solutions provided i
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Aman149/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Aman149/LeetCode-Questions/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/Aman149/LeetCode-Questions/tree/master/0041-first-missing-positive) |
@@ -71,8 +71,8 @@ If you encounter any issues or have questions regarding the solutions provided i
 | [1923-sentence-similarity-iii](https://github.com/Aman149/LeetCode-Questions/tree/master/1923-sentence-similarity-iii) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Aman149/LeetCode-Questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Aman149/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Aman149/LeetCode-Questions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Aman149/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
@@ -84,8 +84,8 @@ If you encounter any issues or have questions regarding the solutions provided i
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aman149/LeetCode-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Aman149/LeetCode-Questions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Aman149/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/Aman149/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Aman149/LeetCode-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -98,31 +98,31 @@ If you encounter any issues or have questions regarding the solutions provided i
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Aman149/LeetCode-Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/Aman149/LeetCode-Questions/tree/master/3195-separate-black-and-white-balls) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1054-complement-of-base-10-integer](https://github.com/Aman149/LeetCode-Questions/tree/master/1054-complement-of-base-10-integer) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Aman149/LeetCode-Questions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aman149/LeetCode-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Aman149/LeetCode-Questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Aman149/LeetCode-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Aman149/LeetCode-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aman149/LeetCode-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/Aman149/LeetCode-Questions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Aman149/LeetCode-Questions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/Aman149/LeetCode-Questions/tree/master/1694-make-sum-divisible-by-p) |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Aman149/LeetCode-Questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0031-next-permutation](https://github.com/Aman149/LeetCode-Questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Aman149/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Aman149/LeetCode-Questions/tree/master/0125-valid-palindrome) |
@@ -131,62 +131,62 @@ If you encounter any issues or have questions regarding the solutions provided i
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aman149/LeetCode-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3195-separate-black-and-white-balls](https://github.com/Aman149/LeetCode-Questions/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0075-sort-colors](https://github.com/Aman149/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [1256-rank-transform-of-an-array](https://github.com/Aman149/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0567-permutation-in-string](https://github.com/Aman149/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Aman149/LeetCode-Questions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aman149/LeetCode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Aman149/LeetCode-Questions/tree/master/1002-maximum-width-ramp) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aman149/LeetCode-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Aman149/LeetCode-Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2288-count-operations-to-obtain-zero](https://github.com/Aman149/LeetCode-Questions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Aman149/LeetCode-Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aman149/LeetCode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aman149/LeetCode-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3195-separate-black-and-white-balls](https://github.com/Aman149/LeetCode-Questions/tree/master/3195-separate-black-and-white-balls) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1002-maximum-width-ramp](https://github.com/Aman149/LeetCode-Questions/tree/master/1002-maximum-width-ramp) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Aman149/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Aman149/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Aman149/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Aman149/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Aman149/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aman149/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2288-count-operations-to-obtain-zero](https://github.com/Aman149/LeetCode-Questions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2998-count-symmetric-integers](https://github.com/Aman149/LeetCode-Questions/tree/master/2998-count-symmetric-integers) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2998-count-symmetric-integers](https://github.com/Aman149/LeetCode-Questions/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
