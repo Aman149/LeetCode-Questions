@@ -65,6 +65,7 @@ If you encounter any issues or have questions regarding the solutions provided i
 | [1002-maximum-width-ramp](https://github.com/Aman149/LeetCode-Questions/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/Aman149/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Aman149/LeetCode-Questions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Aman149/LeetCode-Questions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Aman149/LeetCode-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Aman149/LeetCode-Questions/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Aman149/LeetCode-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -171,6 +172,7 @@ If you encounter any issues or have questions regarding the solutions provided i
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Aman149/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Aman149/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Aman149/LeetCode-Questions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,6 +182,7 @@ If you encounter any issues or have questions regarding the solutions provided i
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Aman149/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aman149/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Aman149/LeetCode-Questions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
