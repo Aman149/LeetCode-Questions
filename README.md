@@ -62,6 +62,7 @@ If you encounter any issues or have questions regarding the solutions provided i
 | [0074-search-a-2d-matrix](https://github.com/Aman149/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Aman149/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aman149/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aman149/LeetCode-Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [1002-maximum-width-ramp](https://github.com/Aman149/LeetCode-Questions/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/Aman149/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Aman149/LeetCode-Questions/tree/master/1435-xor-queries-of-a-subarray) |
@@ -167,6 +168,7 @@ If you encounter any issues or have questions regarding the solutions provided i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Aman149/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aman149/LeetCode-Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
