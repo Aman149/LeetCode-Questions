@@ -64,6 +64,7 @@ If you encounter any issues or have questions regarding the solutions provided i
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aman149/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aman149/LeetCode-Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aman149/LeetCode-Questions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0217-contains-duplicate](https://github.com/Aman149/LeetCode-Questions/tree/main/0217-contains-duplicate/) | Easy |
 | [1002-maximum-width-ramp](https://github.com/Aman149/LeetCode-Questions/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/Aman149/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Aman149/LeetCode-Questions/tree/master/1435-xor-queries-of-a-subarray) |
@@ -79,6 +80,7 @@ If you encounter any issues or have questions regarding the solutions provided i
 | [0001-two-sum](https://github.com/Aman149/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Aman149/LeetCode-Questions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Aman149/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0217-contains-duplicate](https://github.com/Aman149/LeetCode-Questions/tree/main/0217-contains-duplicate/) | Easy |
 | [0567-permutation-in-string](https://github.com/Aman149/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Aman149/LeetCode-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/Aman149/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
@@ -137,6 +139,7 @@ If you encounter any issues or have questions regarding the solutions provided i
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Aman149/LeetCode-Questions/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Aman149/LeetCode-Questions/tree/main/0217-contains-duplicate/) | Easy |
 | [1256-rank-transform-of-an-array](https://github.com/Aman149/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
 ## Sliding Window
 | Problem Name | Difficulty |
